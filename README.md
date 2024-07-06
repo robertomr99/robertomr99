@@ -3,8 +3,8 @@
 </div>
 
 ## About me
-- 📲 Mobile developer
-- 💻 I’m currently working at [Ayesa](https://www.ayesa.com/)
+- 📲 Android developer
+- 💻 I’m currently working at [Balidea](https://www.balidea.com/)
 - 👯 I’m looking to collaborate on Android apps
 <br>
 
